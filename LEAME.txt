@@ -1,1 +1,0 @@
-Para El punto 3, los datos de la conexión a base de datos estan dentro de la carpta CRUD, asi mismo se encuentra .bak para poder montar esta mini base de datos
